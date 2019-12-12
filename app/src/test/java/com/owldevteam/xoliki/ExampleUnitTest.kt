@@ -1,4 +1,4 @@
-package com.example.xoliki
+package com.owldevteam.xoliki
 
 import org.junit.Test
 

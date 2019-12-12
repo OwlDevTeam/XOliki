@@ -1,4 +1,4 @@
-package com.example.xoliki
+package com.owldevteam.xoliki
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

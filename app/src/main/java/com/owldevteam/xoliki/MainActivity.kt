@@ -1,12 +1,12 @@
-package com.example.xoliki
+package com.owldevteam.xoliki
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import androidx.core.view.isInvisible
-import com.example.xoliki.controller.HelpsMethod
-import com.example.xoliki.controller.IIMethod
+import com.owldevteam.xoliki.controller.HelpsMethod
+import com.owldevteam.xoliki.controller.IIMethod
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlin.random.Random
 

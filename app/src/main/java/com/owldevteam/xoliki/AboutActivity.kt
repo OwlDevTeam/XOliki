@@ -1,4 +1,4 @@
-package com.example.xoliki
+package com.owldevteam.xoliki
 
 
 import android.content.Intent

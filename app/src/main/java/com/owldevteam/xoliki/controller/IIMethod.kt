@@ -1,4 +1,4 @@
-package com.example.xoliki.controller
+package com.owldevteam.xoliki.controller
 
 import kotlin.random.Random
 
